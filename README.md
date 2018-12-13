@@ -19,4 +19,4 @@ Email: yulu9243@colorado.edu
 [Link to file on Figma](https://www.figma.com/file/Ak9R8kQ4TETgrwtkKelswn/Mind-Lounge-Final-Prototype?node-id=0%3A1)
 
 ### Project Video
-Link to Youtube
+[Link to Youtube](https://youtu.be/d4AbU8J1wpY)
