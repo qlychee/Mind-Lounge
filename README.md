@@ -12,8 +12,11 @@ Email: yulu9243@colorado.edu
 - [Project Plan](https://github.com/qlychee/Mind-Lounge/blob/master/Qiu_Luo_GroupProjectPlan.pdf)
 - [Design Research](https://github.com/qlychee/Mind-Lounge/blob/master/Qiu_Luo_DesignResearch.pdf)
 - [Prototype Planning](https://github.com/qlychee/Mind-Lounge/blob/master/Qiu_Luo_PaperPrototype.pdf)
+- [Usability Testing and Heuristic Evaluation](https://github.com/qlychee/Mind-Lounge/blob/master/Qiu_Luo_UsabilityHeuristics.pdf)
+- [Final Prototype Changelog and Video Storyboard](https://github.com/qlychee/Mind-Lounge/blob/master/Qiu_Luo_FinalPrototypeStoryboard.pdf)
 
-### Final Prototype (Figma)
+### Final Prototype
+[Link to file on Figma](https://www.figma.com/file/Ak9R8kQ4TETgrwtkKelswn/Mind-Lounge-Final-Prototype?node-id=0%3A1)
 
 ### Project Video
-
+[Link to Youtube](https://youtu.be/d4AbU8J1wpY)
